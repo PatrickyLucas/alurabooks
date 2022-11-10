@@ -46,6 +46,10 @@
     padding: 1em;
 }
 
+.estrelas {
+    padding-bottom: 0.5em;
+}
+
 .descrição__titulo {
     color: var(--laranja);
     font-weight: 700;
@@ -60,6 +64,7 @@
 
 .descrição__texto {
     font-size: 14px;
+    padding: 0.5em 0;
 }
 
 .botões__item {
