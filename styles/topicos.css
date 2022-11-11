@@ -44,4 +44,8 @@
         padding: 5em 25vw;
     }
     
+    .tópicos__link:hover {
+        color: var(--laranja);
+        background-color: var(--branco);
+        }
 }
